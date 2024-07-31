@@ -102,6 +102,8 @@ const Main = () => {
             double-check its responses. Your privacy and Gemini Apps
           </p>
         </div>
+
+        
       </div>
     </div>
   );

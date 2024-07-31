@@ -204,4 +204,8 @@
   .search-box div {
     gap: 5px;
   }
+
+  .main-container {
+    margin-bottom: 20px;
+  }
 }
