@@ -20,6 +20,17 @@ You can view a live demo of the project at https://gemini20.vercel.app/.
 - **ReactJS**: The main framework used for building the user interface.
 - **Vite**: Used as the build tool for fast development and optimized builds.
 
+## Screenshots:
+
+<img width="1439" alt="Screenshot 2024-07-31 at 8 12 09 PM" src="https://github.com/user-attachments/assets/400cc2c0-8386-4780-8019-402fc3248c0a">
+
+<br>
+<br>
+
+<img width="1435" alt="Screenshot 2024-07-31 at 8 14 23 PM" src="https://github.com/user-attachments/assets/23b7f840-9cd9-413c-8a17-f1ab9d461d7a">
+
+
+
 ## API Integration
 
 The project uses the API provided by Google Gemini to fetch and display relevant data. Please note that you will need appropriate API keys and access permissions to interact with the Google Gemini API.
